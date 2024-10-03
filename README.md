@@ -6,6 +6,7 @@
 - Create the class `ReversePolishNotation` that contains the following methods
 	- `static int evaluatePostfix(String input)`: Takes in a postfix expression as a String, evaluates it, and returns the answer
 	- `static String infixToPostfix(String input)`: Takes in an infix expression as a String, converts it to a postfix expression and returns it
+ - You can use your personal `Stack` and `Queue` classes from the previous lab or use Java's `Stack` and `Queue`, although they will be more complicated to use than your personal implementations.
 
 ## Evaluating Postfix Expressions
 
